@@ -178,7 +178,7 @@ The resource utilization chart shows the percentage of time that important railw
 
 This output helps identify highly utilized resources and possible operational bottlenecks.
 
-![Resource Utilization](outputs/resource_utilization.png)
+![Resource Utilization](outputs/resource_utilization.jfif)
 
 ### Trains Processed per Day
 
@@ -186,7 +186,7 @@ This chart presents the number of trains processed during each simulation day.
 
 It can be used to evaluate daily throughput and changes in operational performance over the simulation horizon.
 
-![Trains Processed per Day](outputs/trains_processed_per_day.png)
+![Trains Processed per Day](outputs/trains_processed_per_day.jfif)
 
 ## Technologies Used
 
